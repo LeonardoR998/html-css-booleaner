@@ -36,7 +36,7 @@ color: grey;
 }
 
 .text-insert {
-    margin: 0px;
+    margin: 10px;
   background-image: url("../img/monitor.jpg");
   background-repeat: no-repeat;
   color: #FFFFFF;
@@ -50,7 +50,7 @@ color: grey;
 }
 
 .second-textinsert {
-    margin: 0px;
+    margin: 10px;
   background-image: url("../img/graph.jpg");
   background-repeat: no-repeat;
   color: #FFFFFF;
